@@ -45,4 +45,3 @@ qwfmsHDKlk1GRvsi4H57wwR2pWo4rY+3X382xUi98toq5sn1gII=
 console.log("Sensitive Data:", sensitiveData);
 
 // You can add additional logic here for other tasks, like making an API call or sending this data to a server
-
