@@ -1,0 +1,2 @@
+s3.amazonaws.com/jsmontest/files
+jsmontest-jsmon-test.s3.amazonaws.com/files
