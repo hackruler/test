@@ -1,2 +1,2 @@
-s3.amazaonwas.com/maheshbucket
+s3.amazonaws.com/maheshbucket
 maheshbuckettest.s3.amazonaws.com
