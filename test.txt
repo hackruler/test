@@ -1,2 +1,0 @@
-s3.amaonaws.com/maheshbucke
-maheshbuckettest.s3.amazonaws.com
