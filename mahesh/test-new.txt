@@ -1,2 +1,5 @@
 s3.amazonaws.com/jsmontest/files
 jsmontest-jsmon-test.s3.amaznaws.com/files
+mysql://localhost
+mysql://local
+mysql://host
