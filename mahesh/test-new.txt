@@ -5,4 +5,4 @@ mysql://local
 mysql://host
 b_u0j7LM4jqRotgXV8KWLzgA1Rq0F5giA03xJl8gsI/m4=
 api_key: "db206753672bfc5b036bd37132b7f4b"
-t.Secretkey="A8CC960CD9BD65C74E3080DAA89B0623"
+t.Secretkey='A8CC960CD9BD65C74E3080DAA89B0623'
