@@ -4,4 +4,4 @@ mysql://localhost
 mysql://local
 mysql://host
 b_u0j7LM4jqRotgXV8KWLzgA1Rq0F5giA03xJl8gsI/m4=
-CCIPAT_ATk98btsxdAMGeA5xQNN7q_db206753672bfc5b036bd37132b7f4bffb39233f
+api_key: "CCIPAT_ATk98btsxdAMGeA5xQNN7q_db206753672bfc5b036bd37132b7f4bffb39233f"
